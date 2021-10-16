@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "ENGINE DIAGNOSTIC",
+        "price": 300,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam recusandae error similique atque sed optio",
+        "img": "https://i.ibb.co/tpDDgwG/machine-repaire.jpg"
+    },
+    {
+        "id": 2,
+        "name": "WHEEL ALIGNMENT",
+        "price": 100,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam recusandae error similique atque sed optio",
+        "img": "https://i.ibb.co/B4GYc0G/wheel-alignment.jpg"
+    },
+    {
+        "id": 3,
+        "name": "OIL CHANGING",
+        "price": 100,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam recusandae error similique atque sed optio",
+        "img": "https://i.ibb.co/DRWLx6g/oill-change.jpg"
+    },
+    {
+        "id": 4,
+        "name": "BREAK REPAIRING",
+        "price": 2000,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam recusandae error similique atque sed optio",
+        "img": "https://i.ibb.co/Cv5jNdb/engine-diagonostic.jpg"
+    },
+    {
+        "id": 5,
+        "name": "TIRE REPAIRING",
+        "price": 600,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam recusandae error similique atque sed optio",
+        "img": "https://i.ibb.co/Fx6p8Np/break-repair.jpg"
+    },
+    {
+        "id": 6,
+        "name": "FRAME REPAIRING",
+        "price": 700,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam recusandae error similique atque sed optio",
+        "img": "https://i.ibb.co/RPXgvv7/frame-repaire.jpg"
+    }
+]
